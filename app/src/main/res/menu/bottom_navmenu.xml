@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/ic_lastadd" android:icon="@drawable/ic_lastadd" android:title=""></item>
+    <item android:id="@+id/ic_seriler" android:icon="@drawable/ic_seriler" android:title=""></item>
+    <item android:id="@+id/ic_category" android:icon="@drawable/ic_category" android:title=""></item>
+    <item android:id="@+id/ic_favoriler" android:icon="@drawable/ic_favoriler" android:title=""></item>
+    <item android:id="@+id/ic_menu" android:icon="@drawable/ic_menu" android:title=""></item>
+</menu>
