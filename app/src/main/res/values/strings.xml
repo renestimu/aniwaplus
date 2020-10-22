@@ -1,3 +1,45 @@
 <resources>
     <string name="app_name">Aniwa Plus</string>
+
+
+    <string name="begenmeme">Begenmeme:0</string>
+    <string name="indizle">ind-izle:0-0</string>
+    <string name="begenme">Beğenme:0</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+
+
+
+    <string name="prefs_ea">emailadres</string>
+    <string name="prefs_uid">useruid</string>
+    <string name="prefs_url">orgurl</string>
+    <string name="prefs_theme_key">theme</string>
+    <string name="prefs_theme">tema</string>
+    <string name="prefs_username">kullanici</string>
+    <string name="prefs_userimage">userimage</string>
+
+    <string name="prefs_reklam">reklamlar</string>
+    <string name="prefs_bildirim">bildirimler</string>
+    <string name="prefs_ilk">ilkmigiris</string>
+    <string name="prefs_izledim">izledim</string>
+    <string name="prefs_izliyorum">izliyorum</string>
+    <string name="prefs_izlicem">izlicem</string>
+    <string name="prefs_downloadadres">Animeizle</string>
+    <string name="prefs_alternatifurl">alternatifurl</string>
+    <string name="prefs_animebildirim">animebildirim</string>
+    <string name="prefs_zamangunu">zamangunu</string>
+    <string name="prefs_reklamsay">reklamsay</string>
+    <string name="prefs_reklamgun">reklamgun</string>
+    <string name="prefs_wid">wids</string>
+
+
+
 </resources>

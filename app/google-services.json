@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "188511996865",
+    "firebase_url": "https://aniwaplus.firebaseio.com",
+    "project_id": "aniwaplus",
+    "storage_bucket": "aniwaplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188511996865:android:2ecf508e2da2bb590fbd40",
+        "android_client_info": {
+          "package_name": "com.renestim.aniwaplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188511996865-m6d0pbldjhkvgup2hnbmd5qo398vnb7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7SjWu1Meo1B_dFpjtJJytZl5Y8G6PWpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188511996865-m6d0pbldjhkvgup2hnbmd5qo398vnb7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
